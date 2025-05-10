@@ -4,6 +4,7 @@ A large arpeggio template for the Dirtywave M8.
 This template builds off of the great example set by nchowning https://github.com/nchowning/M8-template
 
 HOW TO USE:
+
 Rename this file as "template.m8s" and save within the SYSTEM folder of your M8's SD card. This file will now be the default template for all new songs.
 
 Insert a note within a new phrase and use the TBLXX function to choose the arpeggio/slide you prefer, starting from TBL80. Raise or lower the TBL. TIC within the instrument page to alter the speed that the arpeggio cycles. Each of the below patterns have 3 corresponding chord shapes from the original nchowning template that are used (i.e. 3 versions of the 1 octave ascending loop, 3 versions of the 2 octave ascending loop and so on).
