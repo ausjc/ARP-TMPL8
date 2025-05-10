@@ -24,4 +24,4 @@ IMPORTANT NOTES:
  - Ninety new arpeggios are found across tables 80 -> DF
  - Slide tables remain in tables E0 -> FF
  - Chain F0 has no notes but holds all tables 80 -> FF as functions and is found in the final line of the song (avoids deletion with "clear unused" function)
- - I have deliberately avoided using table hops despite their space saving capability, as I believe they add a layer of friction when trying to skim through sounds that might suit your song. Feel free to insert these as necessary, or make additional changes (e.g. extending/shortening the "stutter" patterns).
+ - I have deliberately avoided facilitating any THO commands despite their space saving capability, as I believe they add a layer of friction when trying to skim through sounds that might suit your song. Feel free to insert these as necessary, or make additional changes (e.g. extending/shortening the "stutter" patterns).
